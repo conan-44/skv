@@ -1,7 +1,0 @@
-{
-  "title": "Decisions, Decisions",
-  "description": "Cast a vote in a poll.",
-  "successors": ["main:poll-regular"],
-  "rarity": "common",
-  "icon": "📊"
-}

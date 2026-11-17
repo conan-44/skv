@@ -1,8 +1,0 @@
-{
-    "name": "banana boom",
-    "description": "cause explosions around nearby enemies",
-    "note": "big banana go boom",
-    "category": "melee",
-    "damage": 10,
-    "cost": 16
-}

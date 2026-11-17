@@ -1,7 +1,0 @@
-{
-    "title": "Now You See Me",
-    "description": "Enable the invisibility cloak in Settings.",
-    "successors": ["main:profile-explorer"],
-    "rarity": "common",
-    "icon": "👁"
-}

@@ -1,7 +1,0 @@
-{
-    "title": "First Match",
-    "description": "Finish your first chess game.",
-    "successors": ["chess:ten-games", "chess:checkmate", "chess:first-analysis", "chess:first-opening", "chess:castle-first", "chess:enpassant-first"],
-    "rarity": "common",
-    "icon": "♟"
-}

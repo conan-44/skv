@@ -1,7 +1,0 @@
-{
-	"title": "Team Fort",
-	"description": "Build a functional fort for your party",
-	"successors": ["main:the-end"],
-	"rarity": "epic",
-	"icon": "TF"
-}

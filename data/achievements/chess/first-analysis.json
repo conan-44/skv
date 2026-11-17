@@ -1,7 +1,0 @@
-{
-    "title": "Look Back",
-    "description": "Complete engine analysis of a chess game.",
-    "successors": ["chess:ten-analyses"],
-    "rarity": "common",
-    "icon": "⌕"
-}

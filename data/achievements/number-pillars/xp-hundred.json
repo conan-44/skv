@@ -1,7 +1,0 @@
-{
-    "title": "Einstein",
-    "description": "Earn 100 XP playing Number Pillars.",
-    "successors": ["number-pillars:five-hundred-xp"],
-    "rarity": "epic",
-    "icon": "💎"
-}

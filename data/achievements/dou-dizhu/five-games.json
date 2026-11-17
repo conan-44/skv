@@ -1,7 +1,0 @@
-{
-    "title": "Regular Player",
-    "description": "Finish five Dou Dizhu games.",
-    "successors": ["dou-dizhu:twenty-five-games"],
-    "rarity": "rare",
-    "icon": "5"
-}
